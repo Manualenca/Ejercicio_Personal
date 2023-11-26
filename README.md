@@ -1,2 +1,2 @@
 # Blog Personal
-Es un proyecto del Curso de Django para practicar todo lo aprendido en este curso
+Es un proyecto del _Curso de Django_ para practicar todo lo aprendido en **este curso**
